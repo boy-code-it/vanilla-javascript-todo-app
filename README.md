@@ -12,7 +12,7 @@ The app is based on three layers:
 - Core
 - Sandbox
 - Module(s)
-- 
+
 ### Base
 The Base is a DOM library. Any will do. In this case, you are using Jquery. This layer provides DOM, events, AJAX, and more to the fundamental capabilites of your app.
 
